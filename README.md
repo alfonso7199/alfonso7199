@@ -41,7 +41,7 @@ have knowledge in Java and always seek to learn about new technologies and progr
 <br>
 <p align="center">
 <a href="https://github.com/alfonso7199">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aalfonso7199&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alfonso7199&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonso7199&layout=compact&langs_count=8&theme=algolia"/>
   
 
