@@ -14,7 +14,6 @@ have knowledge in Java and always seek to learn about new technologies and progr
 - 🌱 &nbsp; I’m currently learning C and Cybersecurity.
 - 👩🏻‍💻 &nbsp; Most of my projects are available on [GitHub]((https://github.com/alfonso7199)).
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/alfonso-sanchez2).
-<!-- - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing) -->
 - 💬 &nbsp; Ask me about anything, I am happy to help and discuss.
 
 <br/>
