@@ -10,7 +10,7 @@ have knowledge in Java and always seek to learn about new technologies and progr
   
 ### 🧐 More About Me:
 
-- 🖥️ &nbsp; I’m working at **Telefónica Tech** as a Full Stack Developer.
+- 🖥️ &nbsp; I’m working as a Full Stack Developer.
 - 🌱 &nbsp; I'm currently learning C, React and Cybersecurity.
 - 👩🏻‍💻 &nbsp; Most of my projects are available on [GitHub]((https://github.com/alfonso7199)).
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/alfonso-sanchez2).
