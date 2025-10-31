@@ -11,8 +11,9 @@ have knowledge in Java and always seek to learn about new technologies and progr
 ### 🧐 More About Me:
 
 - 🖥️ &nbsp; I’m working as a Full Stack Developer.
-- 🌱 &nbsp; I'm currently learning C, React and Cybersecurity.
-- 👩🏻‍💻 &nbsp; Most of my projects are available on [GitHub]((https://github.com/alfonso7199)).
+- 🌱 &nbsp; I'm currently learning C, C++, React and improving my skills with the Java stack.
+- 👩🏻‍💻 &nbsp; Focus on learning DSA and systems design.
+- 👩🏻‍💻 &nbsp; Some of my projects are available on [GitHub]((https://github.com/alfonso7199)).
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/alfonso-sanchez2).
 - 💬 &nbsp; Ask me about anything, I am happy to help and discuss.
 
