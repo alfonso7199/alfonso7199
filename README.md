@@ -1,19 +1,14 @@
+# Hi, I'm Alfonso Sánchez or **alfonso7199** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-# Hi,  I'm Alfonso Sánchez or **alfonso7199** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height = "30px">
-
-
-I am a software developer enthusiast with studies in multi platform applications and a strong curiosity for technology. I
-have knowledge in Java and always seek to learn about new technologies and programming languages.
+I am a software developer enthusiast with studies in multi platform applications and a strong curiosity for technology. I have knowledge in Java and always seek to learn about new technologies and programming languages.
 
 <br/>
-<br/>
-  
+
 ### 🧐 More About Me:
-
-- 🖥️ &nbsp; I’m working as a Java Backend Developer.
-- 🌱 &nbsp; I'm currently learning C, C++, React and improving my skills with the Java stack.
-- 👩🏻‍💻 &nbsp; Focus on learning DSA and systems design.
-- 👩🏻‍💻 &nbsp; Some of my projects are available on [GitHub]((https://github.com/alfonso7199)).
+- 🖥️ &nbsp; I'm working as a Java Backend Developer.
+- 🌱 &nbsp; I'm currently learning C, C++, React Native and improving my skills with the Java stack.
+- 👨🏻‍💻 &nbsp; Focus on learning DSA and systems design.
+- 🚀 &nbsp; Some of my projects are available on [GitHub](https://github.com/alfonso7199).
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/alfonso-sanchez2).
 - 💬 &nbsp; Ask me about anything, I am happy to help and discuss.
 
@@ -22,31 +17,27 @@ have knowledge in Java and always seek to learn about new technologies and progr
 [![Github](https://img.shields.io/github/followers/alfonso7199?label=Follow&style=social)](https://github.com/alfonso7199)
 ![](https://visitor-badge.laobi.icu/badge?page_id=alfonso7199.alfonso7199)
 
+---
 
 ### 🛠 &nbsp;Tech Stack
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+#### Languages & Frameworks
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
+
+#### Databases & Tools
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apachemaven)&nbsp;
+
+#### Testing & API
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=junit5)&nbsp;
+![SonarQube](https://img.shields.io/badge/-SonarQube-05122A?style=flat&logo=sonarqube)&nbsp;
 
-<!-- ## ⚙️ <b><samp>GitHub Analytics</b></samp>
- -->
-<br>
-<p align="center">
-<a href="https://github.com/alfonso7199">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alfonso7199&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonso7199&layout=compact&langs_count=8&theme=algolia"/>
-  
-
-</a>
-</p>
-
-
-NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
