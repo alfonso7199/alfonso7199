@@ -6,7 +6,7 @@ I am a software developer enthusiast with studies in multi platform applications
 
 ### 🧐 More About Me:
 - 🖥️ &nbsp; I'm working as a Java Backend Developer.
-- 🌱 &nbsp; I'm currently learning C, C++, React Native and improving my skills with the Java stack.
+- 🌱 &nbsp; I'm currently learning C, C++, Swift and improving my skills with the Java stack.
 - 👨🏻‍💻 &nbsp; Focus on learning DSA and systems design.
 - 🚀 &nbsp; Some of my projects are available on [GitHub](https://github.com/alfonso7199).
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/alfonso-sanchez2).
