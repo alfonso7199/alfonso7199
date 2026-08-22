@@ -4,7 +4,7 @@ I am a software developer enthusiast with studies in multi platform applications
 
 <br/>
 
-### 🧐 More About Me:
+### More About Me:
 - 🖥️ &nbsp; I'm working as a Java Backend Developer.
 - 🌱 &nbsp; I'm currently learning C, C++, Swift and improving my skills with the Java stack.
 - 👨🏻‍💻 &nbsp; Focus on learning DSA and systems design.
@@ -19,7 +19,7 @@ I am a software developer enthusiast with studies in multi platform applications
 
 ---
 
-### 🛠 &nbsp;Tech Stack
+### Tech Stack
 
 #### Languages & Frameworks
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
